@@ -79,7 +79,7 @@ $arquivo = "
   //$headers .= "Bcc: $EmailPadrao\r\n";
 
 
-  echo "<meta http-equiv='refresh' content='10;URL=../contato.html'>";
+  echo "<meta http-equiv='refresh' content='1;URL=../index.html'>";
 
  //Antigo script para enviar email
   /*
