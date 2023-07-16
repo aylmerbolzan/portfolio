@@ -1,8 +1,24 @@
+----------------------
+CONCLUÍDO
+----------------------
+- Consertar o formulário de contato
+--- Configurar via Formspree
+
+
+----------------------
+TO DO
+----------------------
+- Migrar contact form de PHP para NodeJS
+- Procurar alternativa ao Formspree
 - Configurar meta description
 - Configurar meta keywords
-- Consertar o formulário de contato
 - Habilitar pagina "Habilidades"
 - Habilitar página "Portfólio"
 - Renomear classes
+- Criar alert badge em bootstrap para aparecer quando a página de contato for redirecionada
+
+
+----------------------
+PAUSADO
+----------------------
 - Registrar dominio .tech
-- Incluir $subject no assunto do email de contato
