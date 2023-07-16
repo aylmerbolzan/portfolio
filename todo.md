@@ -1,3 +1,8 @@
 - Configurar meta description
 - Configurar meta keywords
-- 
+- Consertar o formulário de contato
+- Habilitar pagina "Habilidades"
+- Habilitar página "Portfólio"
+- Renomear classes
+- Registrar dominio .tech
+- Incluir $subject no assunto do email de contato
