@@ -10,6 +10,10 @@ TO DO
 ----------------------
 - Migrar contact form de PHP para NodeJS
 - Procurar alternativa ao Formspree
+--- Netlify Forms
+--- FormKeep
+--- FormSubmit
+
 - Configurar meta description
 - Configurar meta keywords
 - Habilitar pagina "Habilidades"
