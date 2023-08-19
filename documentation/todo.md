@@ -8,6 +8,7 @@ CONCLUÍDO
 ----------------------
 TO DO
 ----------------------
+- Download do curriculo
 - Migrar contact form de PHP para NodeJS
 - Procurar alternativa ao Formspree
 --- Netlify Forms
